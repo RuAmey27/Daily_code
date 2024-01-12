@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mapples Map Example</title>
+  <!-- Include Mapples JavaScript library (replace with actual URL) -->
+  <script src="https://geoanalytics.mapmyindia.com/listingapi?"></script>
+</head>
+<body>
+  <!-- The div where the map will be rendered -->
+  <div id="map"></div>
+
+  <script>
+    // Replace with your Mapples API key and other configurations
+    const apiKey = '8a625c23670299e8361aaa0da1f8b7fc';
+
+    // Initialize the map using Mapples library
+    const map = new Mapples.Map('map', {
+      apiKey: apiKey,
+      // Additional configuration options if needed
+    });
+
+    // Add a marker to the map (replace with actual coordinates)
+    const marker = new Mapples.Marker({
+      position: { lat: 37.7749, lng: -122.4194 }, // Example coordinates for San Francisco
+      title: 'Marker Title',
+      // Additional marker options if needed
+    });
+
+    // Add the marker to the map
+    map.addMarker(marker);
+  </script>
+</body>
+</html>
