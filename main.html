@@ -1,0 +1,121 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google map</title>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v3.0.1/mapbox-gl.js'></script>
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <script
+        src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.0/mapbox-gl-geocoder.min.js"></script>
+    <link rel="stylesheet"
+        href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v5.0.0/mapbox-gl-geocoder.css"
+        type="text/css">
+    <div class="dashboard">
+        <div class="name">
+            Like our Google Map
+        </div>
+        <div id="details">
+            <h4>Infection Level</h4>
+
+            <h4>
+                <span id="stats1"></span> &rsaquo; 800
+            </h4>
+            <h4>
+                <span id="stats2"></span> &rsaquo; 400 & &lsaquo; 800
+            </h4>
+            <h4>
+                <span id="stats3"></span> &lsaquo; 400
+            </h4>
+
+        </div>
+    </div>
+
+    <div id='map'></div>
+</body>
+<script>
+    let access_token = 'pk.eyJ1IjoicnVhbWV5MjciLCJhIjoiY2xya2ZwNzA4MGJpeDJqazRvbHk2YXlobyJ9.SrqgfhxiVk2uquDGPFjaAA';
+    // access token
+    mapboxgl.accessToken = access_token;
+
+    // creating a map object
+    const map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v12',
+        // center: [77.320953, 19.138250],
+        center: [77.292066915344, 19.112738099388025],
+        zoom: 11,
+        showPlaceLabels:true,
+        showRoadLabels:true
+        // 19.112738099388025, 77.292066915344
+    });
+
+    // when map loads, it fires a callback function
+    map.on('load', () => {
+        map.addLayer({
+            id: 'terrain-data',
+            type: 'line',
+            source: {
+                type: 'vector',
+                url: 'mapbox://mapbox.mapbox-terrain-v2'
+            },
+            'source-layer': 'contour'
+        });
+    });
+
+    const marker1 = new mapboxgl.Marker()
+        .setLngLat([77.292066915344, 19.112738099388025])
+        .addTo(map);
+
+    // searching a place
+    let query = 'Michigan Stadium';
+
+
+    class SessionToken {
+        constructor() {
+            this.id = generateUUID();
+        }
+    }
+
+    let country = 'US'
+    const token = new SessionToken();
+
+    // randomly generated session UUID
+    function generateUUID() {
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+            var r = Math.random() * 16 | 0,
+                v = c === 'x' ? r : (r & 0x3 | 0x8);
+            return v.toString(16);
+        });
+    }
+
+    let session_token = generateUUID();
+
+    // get all the details of the searched location
+    let promise = fetch(`https://api.mapbox.com/search/searchbox/v1/suggest?q=${query}?language=en&limit=1&session_token=${session_token}&proximity=-83.748708,42.265837&country=${country}&access_token=${access_token}`);
+
+    promise.then((data) => {
+        return data.json();
+    }).then((data) => {
+        console.log(data);
+    });
+
+    // Add the control to the map.
+    map.addControl(
+        new MapboxGeocoder({
+            accessToken: mapboxgl.accessToken,
+            mapboxgl: mapboxgl
+        })
+    );
+
+    // Add zoom and rotation controls to the map.
+    map.addControl(new mapboxgl.NavigationControl());
+
+</script>
+<script src="https://cdn.tailwindcss.com"></script>
+
+</html>
