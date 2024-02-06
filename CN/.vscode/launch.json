@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClassfulAddressing",
+            "request": "launch",
+            "mainClass": "ClassfulAddressing",
+            "projectName": "CN_3e29fbec"
+        },
+        {
+            "type": "java",
+            "name": "IPAddressInfo",
+            "request": "launch",
+            "mainClass": "IPAddressInfo",
+            "projectName": "CN_3e29fbec"
+        },
+        {
+            "type": "lldb",
+            "request": "attach",
+            "name": "Attach",
+            "program": "C:\\Users\\hp\\Documents\\Amey\\D:\\java programming"
+        }
+    ]
+}

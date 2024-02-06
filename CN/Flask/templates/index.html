@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPv4 Classless Info Recognition</title>
+</head>
+<body>
+    <h1>IPv4 Classless Info Recognition</h1>
+    <form method="POST" action="/">
+        <label for="ip_address">Enter IPv4 Address (a.b.c.d/t):</label>
+        <input type="text" id="ip_address" name="ip_address" required>
+        <button type="submit">Submit</button>
+    </form>
+
+    {% if result %}
+    <h2>Result:</h2>
+    <p>/ Value: {{ result[0] }}</p>
+    <p>Mask in Decimal: {{ result[1] }}</p>
+    <p>No of IP Addresses in Block: {{ result[2] }}</p>
+    <p>First IP: {{ result[3] }}</p>
+    <p>Last IP: {{ result[4] }}</p>
+    <p>Network Address: {{ result[5] }}</p>
+    {% endif %}
+</body>
+</html>
