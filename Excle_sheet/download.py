@@ -4,7 +4,7 @@ from googleapiclient.http import MediaIoBaseDownload  # Import MediaIoBaseDownlo
 import io
 
 # Path to the service account credentials JSON file
-credentials_file = 'aerobic-copilot-411010-3b76aa87ba33.json'
+credentials_file = 'aerobic-copilot-411010-f2e99e4a5e5e.json'
 
 # ID of the Google Sheets file you want to download
 file_id = '1WjpNLSL0eM01nbzRbzMP4EUr3qAWeEiwd5h0dfRCBVY'

@@ -2,7 +2,7 @@ from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
 # Path to the service account credentials JSON file
-credentials_file = 'aerobic-copilot-411010-3b76aa87ba33.json'
+credentials_file = 'aerobic-copilot-411010-f2e99e4a5e5e.json'
 
 # Create credentials object from the JSON file
 credentials = service_account.Credentials.from_service_account_file(

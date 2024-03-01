@@ -6,7 +6,7 @@ scope = ['https://spreadsheets.google.com/feeds',
          'https://www.googleapis.com/auth/drive']
 
 # Authenticate using credentials
-creds = ServiceAccountCredentials.from_json_keyfile_name('aerobic-copilot-411010-3b76aa87ba33.json', scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name('aerobic-copilot-411010-f2e99e4a5e5e.json', scope)
 client = gspread.authorize(creds)
 
 # Open the Google Sheets document

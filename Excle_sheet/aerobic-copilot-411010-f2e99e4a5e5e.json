@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aerobic-copilot-411010",
+  "private_key_id": "f2e99e4a5e5ec526dfa2f034a59011a18673963f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCVOD0rBHoeMUkt\nVb5vlQPyaQD1+7xaq6VFbjSEFfUzmpYlqcD4Ip5PA35wQoRpovIQjO6bYeOl7x3O\nC2exu89khBFi0tGoPHafVRVTqF/b+HN71FKRnP+bqo6bzEEu4m+bRve3ZBSV99Lk\njPZx9Ql42sFa2itzK8EOpMGo6DwAlVH+Wip2aFww5DNQU1JdeG41IjMv3rkD2ZeA\n9u/Jh6TlElQww5f+DsWlqjDVOlKEOIb3rLS7ws+aobovM8BG1IUbWNvi4dxIqN2M\n9P/h6280K7+T/ULaH1Y+J4xIvE6kuh/a1OsjrnZRwahot8iNo47dSRRraO7et971\nZO4VwCw/AgMBAAECggEAAg88Hjm+ZKxJeGfHn35d9fqOGegbSwLxVhUNLQnLNnOn\nfLt0qho2na1dmerIk729EQXyAN2uV74XRNHSaV1QXVcO5l9X2sdhQicMm8WmFZZY\nRfbbcScO6J+lNhrf3IGH1ZzPznPof3648vchPHFpnv0hrg5DvnVTmzV3uxBGTERG\ndx+MlOb/yVipu2LuPpKUf2NNPzRgXwOyLc7Knjenu8zXG60mO3nFlu5Ifp3YUFT6\nH9fe8zlo3tNE7YY8nOkGOOUvjBdMRt9fofdUnrB2JuI6tjoFhKZXZ2Vsr/Vt/5Ft\nyaeEM5uhZctDdsA5v0qTScLJ1HoCLtkIcqh7fko4AQKBgQDLjfWOYawIOkhuJkz9\nvhC4qEGE4yMzr736TsI11LUSuohjqvKiXJvPHXzjMZy074/8iSnyKKiEzWjEMZI5\nXnFG2cG55KXRgc7Q2M/Dvk58WPA83fLQtMOPZFLYmFX8KijTuWPutDVL4w1WgCaU\n/n+xvHWOmetb2ZiETEuV4pZIFQKBgQC7qnbhw7jjQwJyNO55BwVUsQKJ976o5ax7\n3WcsAqtz57wipAHtwXKpWhmKl46sSQw5EURPIfG8soqdnX1zTNR4R2sVQSCeAvNg\n2lNe9rQIBddvttB6+YyXfb9R3RVkFUu0xHfuuJPTFf0r54Xj/20YlIpbAeng0L2X\nWgsTQ6kEAwKBgBSDySTBaUInBZe8WnQUTMEfjALllW2nH6FzgJVGS72IeSh6WRvN\n85ILKcQIAwAlSMCt3kFeoaVIwm9Lg64ue4IlfiXLCn8z8vEPeNkEfAqCOCwaPleU\ncEUqWkMkDz5rzVORUqYDGX/9cSGvprPLdnkmQj7N+m92Xa2vtspzXKwFAoGAa2D3\nUujFkqvV63kj9nYw86uw0zbBjiyUi+88SG9ioRg4iu2i+OKWdBZMxQNBLI1DhCfA\nGTNH+XuDWvoxPNb6P7RFrkysmB0CGynxSEYK7whAo/hLxAGkE05tOS8yPSj+P3mn\nUh2k38QWL5fzAWk2iDj+DWLD6tIlmUN5UNWHEPcCgYB059A98myTuzEOUnZyNHS4\nHhEbVLaXBnjoskJUJG5tTP0IfBzDUz6gFChEFm8rgcFCqTyT8c8FDbZ2o+alFnEG\nbQYEsg0VsjNPfXJly/oDSWxKVXJRL+oNiIZYUpWBEXaXiu83zI1w60+27J1AicOM\nRnBZGDXgA2PGPVk3uTWO/g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "amey-432@aerobic-copilot-411010.iam.gserviceaccount.com",
+  "client_id": "116184322132658549985",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amey-432%40aerobic-copilot-411010.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
