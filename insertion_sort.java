@@ -2,7 +2,7 @@ class InsertionSort {
     public static void main(String[] args) {
         int[] array = {7, 4, 1, 10, 3};
         insertionSort(array);
-        System.out.println("Sorted array: " + array);
+        System.out.println("Sorted array: " + toString(array));
     }
 
     public static void insertionSort(int[] arr) {
