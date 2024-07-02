@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FixedPointFinder_1",
+      "request": "launch",
+      "mainClass": "Algorithms.FixedPointFinder_1",
+      "projectName": "Daily_code_6fd9e62e"
+    },
+    {
+      "type": "java",
+      "name": "FixedPointFinder",
+      "request": "launch",
+      "mainClass": "Algorithms.FixedPointFinder",
+      "projectName": "Daily_code_6fd9e62e"
+    },
+    {
+      "type": "java",
+      "name": "Codechef",
+      "request": "launch",
+      "mainClass": "Codechef",
+      "projectName": "Daily_code_9bd3953b"
+    },
+    {
+      "type": "java",
+      "name": "mergeinplace",
+      "request": "launch",
+      "mainClass": "mergeinplace",
+      "projectName": "Daily_code_9bd3953b"
+    },
+    {
+      "type": "java",
+      "name": "duplivizual",
+      "request": "launch",
+      "mainClass": "duplivizual",
+      "projectName": "Daily_code_9bd3953b"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "Daily_code_9bd3953b"
+    },
+    {
+      "type": "java",
+      "name": "StrassenMatrixMultiplication",
+      "request": "launch",
+      "mainClass": "StrassenMatrixMultiplication",
+      "projectName": "Daily_code_6fd9e62e"
+    },
+    {
+      "type": "java",
       "name": "InsertionSort",
       "request": "launch",
       "mainClass": "InsertionSort",
