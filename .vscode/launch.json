@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TwoSumSortedArray_boolean",
+      "request": "launch",
+      "mainClass": "Algorithms.TwoSumSortedArray_boolean",
+      "projectName": "Daily_code_6fd9e62e"
+    },
+    {
+      "type": "java",
+      "name": "TwoSumSortedArray",
+      "request": "launch",
+      "mainClass": "Algorithms.TwoSumSortedArray",
+      "projectName": "Daily_code_6fd9e62e"
+    },
+    {
+      "type": "java",
+      "name": "TwoSumGreaterThanX",
+      "request": "launch",
+      "mainClass": "Algorithms.TwoSumGreaterThanX",
+      "projectName": "Daily_code_6fd9e62e"
+    },
+    {
+      "type": "java",
+      "name": "FirstInfiniteFinder",
+      "request": "launch",
+      "mainClass": "Algorithms.FirstInfiniteFinder",
+      "projectName": "Daily_code_6fd9e62e"
+    },
+    {
+      "type": "java",
+      "name": "FindingFirstMax",
+      "request": "launch",
+      "mainClass": "Algorithms.FindingFirstMax",
+      "projectName": "Daily_code_6fd9e62e"
+    },
+    {
+      "type": "java",
       "name": "FixedPointFinder_1",
       "request": "launch",
       "mainClass": "Algorithms.FixedPointFinder_1",
