@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "QuickSortMedianOfMedians",
+      "request": "launch",
+      "mainClass": "Algorithms.QuickSortMedianOfMedians",
+      "projectName": "Daily_code_6fd9e62e"
+    },
+    {
+      "type": "java",
       "name": "TwoSumSortedArray_boolean",
       "request": "launch",
       "mainClass": "Algorithms.TwoSumSortedArray_boolean",
