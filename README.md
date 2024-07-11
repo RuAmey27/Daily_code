@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/RuAmey27/Daily_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## String
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
