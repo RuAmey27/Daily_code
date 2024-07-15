@@ -6,12 +6,14 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/RuAmey27/Daily_code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/RuAmey27/Daily_code/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Database
 |  |
 | ------- |
@@ -42,4 +44,12 @@
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/RuAmey27/Daily_code/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/RuAmey27/Daily_code/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
