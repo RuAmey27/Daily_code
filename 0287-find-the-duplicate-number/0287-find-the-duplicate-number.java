@@ -1,23 +1,19 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        int n=nums.length;
-        HashSet<Integer> num=new HashSet<>();
+        int tortoise = nums[0];
+        int hare = nums[0];
+        do {
+            tortoise = nums[tortoise];
+            hare = nums[nums[hare]];
+        } while (tortoise != hare);
 
-        for(int i=0;i<n;i++){
-            if(num.contains(nums[i])){
-                
-                return nums[i];
-                
-            }
-            num.add(nums[i]);
-            
-            // for(int j=i+1;j<n;j++){
-            //     if(nums[i]==nums[j]){
-            //         return nums[i];
-            //     }
-            // }
+        // Phase 2: Finding the entrance to the cycle
+        tortoise = nums[0];
+        while (tortoise != hare) {
+            tortoise = nums[tortoise];
+            hare = nums[hare];
         }
-        return 0;
-    
+
+        return hare;
 }
 }
