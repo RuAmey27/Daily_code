@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RuAmey27/Daily_code/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
