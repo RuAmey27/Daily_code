@@ -1,16 +1,18 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        HashSet<Integer> uniqueSet = new HashSet<>();
-        
-        int index = 0; // Pointer to track the position of unique elements
-        
-        for (int num : nums) {
-            // If the number is not already in the HashSet, it's unique
-            if (uniqueSet.add(num)) {
-                nums[index++] = num; // Place the unique number in the array
+        if (nums.length == 0) {
+            return 0;
+        }
+
+        int i = 0; // Pointer for the position of the last unique element
+
+        for (int j = 1; j < nums.length; j++) {
+            if (nums[j] != nums[i]) {
+                i++; // Move the slow pointer
+                nums[i] = nums[j]; // Update the position with the new unique element
             }
         }
-        
-        return index; // The le
+
+        return i + 1; // Leng
     }
 }
