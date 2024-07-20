@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RuAmey27/Daily_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RuAmey27/Daily_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
