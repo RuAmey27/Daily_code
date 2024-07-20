@@ -11,6 +11,7 @@
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RuAmey27/Daily_code/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RuAmey27/Daily_code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -42,6 +43,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RuAmey27/Daily_code/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Two Pointers
 |  |
 | ------- |
