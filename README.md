@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RuAmey27/Daily_code/tree/master/0078-subsets) |
+| [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RuAmey27/Daily_code/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
 | ------- |
