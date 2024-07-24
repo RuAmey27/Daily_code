@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RuAmey27/Daily_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RuAmey27/Daily_code/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,4 +128,8 @@
 | ------- |
 | [0078-subsets](https://github.com/RuAmey27/Daily_code/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/RuAmey27/Daily_code/tree/master/0093-restore-ip-addresses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
