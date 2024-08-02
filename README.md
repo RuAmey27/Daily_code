@@ -27,6 +27,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RuAmey27/Daily_code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RuAmey27/Daily_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RuAmey27/Daily_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/RuAmey27/Daily_code/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/RuAmey27/Daily_code/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/RuAmey27/Daily_code/tree/master/2502-sort-the-people) |
@@ -213,4 +214,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/RuAmey27/Daily_code/tree/master/1511-count-number-of-teams) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RuAmey27/Daily_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
