@@ -1,26 +1,27 @@
 class Solution {
-  
-    private static final int MOD = 1_000_000_007;
 
     public int rangeSum(int[] nums, int n, int left, int right) {
-       List<Long> subarraySums = new ArrayList<>();
-        
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+            new Comparator<int[]>() {
+                @Override
+                public int compare(int[] o1, int[] o2) {
+                    return o1[0] - o2[0];
+                }
+            }
+        );
+        for (int i = 0; i < n; i++) {
+            pq.offer(new int[] { nums[i], i });
+        }
 
-        for (int start = 0; start < n; start++) {
-            long currentSum = 0;
-            for (int end = start; end < n; end++) {
-                currentSum += nums[end];
-                subarraySums.add(currentSum);
+        int ans = 0, mod = 1000000007;
+        for (int i = 1; i <= right; i++) {
+            int[] p = pq.poll();
+            if (i >= left) ans = (ans + p[0]) % mod;
+            if (p[1] < n - 1) {
+                p[0] += nums[++p[1]];
+                pq.offer(p);
             }
         }
-
-        Collections.sort(subarraySums);
-
-        long sum = 0;
-        for (int i = left - 1; i < right; i++) {
-            sum = (sum + subarraySums.get(i)) % MOD;
-        }
-
-        return (int) sum;
+        return ans;
     }
 }
