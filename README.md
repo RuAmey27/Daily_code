@@ -62,6 +62,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
 | [0093-restore-ip-addresses](https://github.com/RuAmey27/Daily_code/tree/master/0093-restore-ip-addresses) |
+| [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -221,6 +222,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/RuAmey27/Daily_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0206-reverse-linked-list) |
+| [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 ## Shortest Path
 |  |
 | ------- |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RuAmey27/Daily_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
