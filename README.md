@@ -19,6 +19,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RuAmey27/Daily_code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
+| [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RuAmey27/Daily_code/tree/master/1333-sort-the-jumbled-numbers) |
@@ -104,6 +105,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
@@ -130,6 +132,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/RuAmey27/Daily_code/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0074-search-a-2d-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RuAmey27/Daily_code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/RuAmey27/Daily_code/tree/master/2472-build-a-matrix-with-conditions) |
