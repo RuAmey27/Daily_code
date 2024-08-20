@@ -25,6 +25,7 @@
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/RuAmey27/Daily_code/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RuAmey27/Daily_code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RuAmey27/Daily_code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/RuAmey27/Daily_code/tree/master/1511-count-number-of-teams) |
@@ -172,6 +173,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RuAmey27/Daily_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RuAmey27/Daily_code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
+| [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RuAmey27/Daily_code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/RuAmey27/Daily_code/tree/master/1511-count-number-of-teams) |
 ## Binary Search
@@ -268,6 +270,7 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -288,4 +291,12 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RuAmey27/Daily_code/tree/master/0789-kth-largest-element-in-a-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
