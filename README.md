@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/RuAmey27/Daily_code/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/RuAmey27/Daily_code/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/RuAmey27/Daily_code/tree/master/0999-regions-cut-by-slashes) |
@@ -55,6 +56,7 @@
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/RuAmey27/Daily_code/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RuAmey27/Daily_code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/RuAmey27/Daily_code/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
@@ -124,6 +126,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/RuAmey27/Daily_code/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/RuAmey27/Daily_code/tree/master/2076-sum-of-digits-of-string-after-convert) |
