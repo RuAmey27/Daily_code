@@ -11,6 +11,7 @@
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RuAmey27/Daily_code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RuAmey27/Daily_code/tree/master/0078-subsets) |
@@ -135,6 +136,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/RuAmey27/Daily_code/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/RuAmey27/Daily_code/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
