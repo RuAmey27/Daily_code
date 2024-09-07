@@ -22,6 +22,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RuAmey27/Daily_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RuAmey27/Daily_code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/RuAmey27/Daily_code/tree/master/0624-maximum-distance-in-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
@@ -211,6 +212,7 @@
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RuAmey27/Daily_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -333,6 +335,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
