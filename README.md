@@ -61,6 +61,7 @@
 | [0037-sudoku-solver](https://github.com/RuAmey27/Daily_code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RuAmey27/Daily_code/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/RuAmey27/Daily_code/tree/master/0906-walking-robot-simulation) |
@@ -209,6 +210,7 @@
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RuAmey27/Daily_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
@@ -330,6 +332,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
