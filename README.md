@@ -84,6 +84,7 @@
 | [1415-students-and-examinations](https://github.com/RuAmey27/Daily_code/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/RuAmey27/Daily_code/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/RuAmey27/Daily_code/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [2041-the-latest-login-in-2020](https://github.com/RuAmey27/Daily_code/tree/master/2041-the-latest-login-in-2020) |
 ## String
 |  |
 | ------- |
