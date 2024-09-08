@@ -302,6 +302,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RuAmey27/Daily_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0206-reverse-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/RuAmey27/Daily_code/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/RuAmey27/Daily_code/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RuAmey27/Daily_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
