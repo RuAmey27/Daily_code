@@ -144,6 +144,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RuAmey27/Daily_code/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/RuAmey27/Daily_code/tree/master/0258-add-digits) |
 | [0906-walking-robot-simulation](https://github.com/RuAmey27/Daily_code/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -345,6 +346,7 @@
 | [0168-excel-sheet-column-title](https://github.com/RuAmey27/Daily_code/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/RuAmey27/Daily_code/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
@@ -386,5 +388,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RuAmey27/Daily_code/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
