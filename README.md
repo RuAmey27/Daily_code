@@ -93,6 +93,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/RuAmey27/Daily_code/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/RuAmey27/Daily_code/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/RuAmey27/Daily_code/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/RuAmey27/Daily_code/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0125-valid-palindrome) |
@@ -393,4 +394,8 @@
 | ------- |
 | [0258-add-digits](https://github.com/RuAmey27/Daily_code/tree/master/0258-add-digits) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RuAmey27/Daily_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
