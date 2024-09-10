@@ -60,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/RuAmey27/Daily_code/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/RuAmey27/Daily_code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/RuAmey27/Daily_code/tree/master/0049-group-anagrams) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/RuAmey27/Daily_code/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/RuAmey27/Daily_code/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/RuAmey27/Daily_code/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0125-valid-palindrome) |
@@ -343,6 +345,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/RuAmey27/Daily_code/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/RuAmey27/Daily_code/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
