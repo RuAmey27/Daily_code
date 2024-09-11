@@ -34,6 +34,7 @@
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/RuAmey27/Daily_code/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RuAmey27/Daily_code/tree/master/1333-sort-the-jumbled-numbers) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/RuAmey27/Daily_code/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RuAmey27/Daily_code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/RuAmey27/Daily_code/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RuAmey27/Daily_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -357,6 +358,7 @@
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/RuAmey27/Daily_code/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2155-find-missing-observations](https://github.com/RuAmey27/Daily_code/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Union Find
@@ -401,4 +403,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RuAmey27/Daily_code/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/RuAmey27/Daily_code/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
