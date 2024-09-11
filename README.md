@@ -252,6 +252,7 @@
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/RuAmey27/Daily_code/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/RuAmey27/Daily_code/tree/master/1054-complement-of-base-10-integer) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/RuAmey27/Daily_code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Graph
 |  |
 | ------- |
