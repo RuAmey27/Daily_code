@@ -249,6 +249,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RuAmey27/Daily_code/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/RuAmey27/Daily_code/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/RuAmey27/Daily_code/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/RuAmey27/Daily_code/tree/master/1054-complement-of-base-10-integer) |
@@ -278,6 +279,7 @@
 | [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/RuAmey27/Daily_code/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
