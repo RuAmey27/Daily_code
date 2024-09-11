@@ -103,6 +103,7 @@
 | [0392-is-subsequence](https://github.com/RuAmey27/Daily_code/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1764-maximum-repeating-substring](https://github.com/RuAmey27/Daily_code/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/RuAmey27/Daily_code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RuAmey27/Daily_code/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -241,6 +242,7 @@
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RuAmey27/Daily_code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/RuAmey27/Daily_code/tree/master/1511-count-number-of-teams) |
+| [1764-maximum-repeating-substring](https://github.com/RuAmey27/Daily_code/tree/master/1764-maximum-repeating-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -410,4 +412,8 @@
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RuAmey27/Daily_code/tree/master/1349-check-if-it-is-a-straight-line) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/RuAmey27/Daily_code/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
