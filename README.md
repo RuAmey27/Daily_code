@@ -103,6 +103,7 @@
 | [0125-valid-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/RuAmey27/Daily_code/tree/master/0168-excel-sheet-column-title) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/RuAmey27/Daily_code/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -234,6 +235,7 @@
 | [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/RuAmey27/Daily_code/tree/master/0392-is-subsequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Dynamic Programming
