@@ -327,6 +327,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/RuAmey27/Daily_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RuAmey27/Daily_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0203-remove-linked-list-elements](https://github.com/RuAmey27/Daily_code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/RuAmey27/Daily_code/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/RuAmey27/Daily_code/tree/master/1484-linked-list-in-binary-tree) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/RuAmey27/Daily_code/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/RuAmey27/Daily_code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
