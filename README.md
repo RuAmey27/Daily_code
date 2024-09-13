@@ -124,6 +124,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -328,6 +329,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/RuAmey27/Daily_code/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/RuAmey27/Daily_code/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/RuAmey27/Daily_code/tree/master/2411-spiral-matrix-iv) |
+| [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RuAmey27/Daily_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -336,6 +338,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/RuAmey27/Daily_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
+| [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
 ## Shortest Path
 |  |
 | ------- |
@@ -424,4 +427,8 @@
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/RuAmey27/Daily_code/tree/master/1764-maximum-repeating-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
