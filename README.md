@@ -104,6 +104,7 @@
 | [0168-excel-sheet-column-title](https://github.com/RuAmey27/Daily_code/tree/master/0168-excel-sheet-column-title) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/RuAmey27/Daily_code/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/RuAmey27/Daily_code/tree/master/0392-is-subsequence) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0234-palindrome-linked-list) |
+| [0388-longest-absolute-file-path](https://github.com/RuAmey27/Daily_code/tree/master/0388-longest-absolute-file-path) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0388-longest-absolute-file-path](https://github.com/RuAmey27/Daily_code/tree/master/0388-longest-absolute-file-path) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RuAmey27/Daily_code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/RuAmey27/Daily_code/tree/master/0999-regions-cut-by-slashes) |
