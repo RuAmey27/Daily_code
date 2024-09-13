@@ -35,6 +35,7 @@
 | [1325-path-with-maximum-probability](https://github.com/RuAmey27/Daily_code/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/RuAmey27/Daily_code/tree/master/1333-sort-the-jumbled-numbers) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RuAmey27/Daily_code/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1435-xor-queries-of-a-subarray](https://github.com/RuAmey27/Daily_code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RuAmey27/Daily_code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/RuAmey27/Daily_code/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RuAmey27/Daily_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -262,6 +263,7 @@
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/RuAmey27/Daily_code/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/RuAmey27/Daily_code/tree/master/1054-complement-of-base-10-integer) |
+| [1435-xor-queries-of-a-subarray](https://github.com/RuAmey27/Daily_code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RuAmey27/Daily_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RuAmey27/Daily_code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Graph
@@ -399,6 +401,7 @@
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/RuAmey27/Daily_code/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
