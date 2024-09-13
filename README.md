@@ -262,6 +262,7 @@
 | ------- |
 | [0078-subsets](https://github.com/RuAmey27/Daily_code/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/RuAmey27/Daily_code/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/RuAmey27/Daily_code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/RuAmey27/Daily_code/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/RuAmey27/Daily_code/tree/master/1054-complement-of-base-10-integer) |
@@ -341,6 +342,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/RuAmey27/Daily_code/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/RuAmey27/Daily_code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/RuAmey27/Daily_code/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RuAmey27/Daily_code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -374,6 +376,7 @@
 | [0168-excel-sheet-column-title](https://github.com/RuAmey27/Daily_code/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/RuAmey27/Daily_code/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RuAmey27/Daily_code/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
