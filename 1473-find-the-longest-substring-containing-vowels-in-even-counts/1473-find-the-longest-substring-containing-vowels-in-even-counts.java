@@ -1,29 +1,41 @@
 class Solution {
     public int findTheLongestSubstring(String s) {
-        int n = s.length();
-        int[] pos = new int[32]; // to store the first occurrence of each bitmask
-        Arrays.fill(pos, -1);
-        int mask = 0, result = 0;
-        pos[0] = 0; // initial state when no vowels have been seen
+        Map<String, Integer> stateMap = new HashMap<>();
+        int[] vowelCount = new int[5]; // for 'a', 'e', 'i', 'o', 'u'
+        String currentState = "00000"; // All vowels initially have even counts
+        stateMap.put(currentState, -1); // Base case: state before any character is at index -1
+        int maxLength = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
-            // Update the mask based on the current character
-            if (ch == 'a') mask ^= (1 << 0);
-            if (ch == 'e') mask ^= (1 << 1);
-            if (ch == 'i') mask ^= (1 << 2);
-            if (ch == 'o') mask ^= (1 << 3);
-            if (ch == 'u') mask ^= (1 << 4);
+            // Update the vowel count based on the current character
+            if (ch == 'a') vowelCount[0] ^= 1; // Toggle between even (0) and odd (1)
+            else if (ch == 'e') vowelCount[1] ^= 1;
+            else if (ch == 'i') vowelCount[2] ^= 1;
+            else if (ch == 'o') vowelCount[3] ^= 1;
+            else if (ch == 'u') vowelCount[4] ^= 1;
 
-            // Check if this bitmask has been seen before
-            if (pos[mask] >= 0) {
-                result = Math.max(result, i + 1 - pos[mask]);
+            // Convert the current vowel counts to a string representation (e.g., "01001")
+            currentState = toStateString(vowelCount);
+
+            // Check if this state has been seen before
+            if (stateMap.containsKey(currentState)) {
+                maxLength = Math.max(maxLength, i - stateMap.get(currentState));
             } else {
-                pos[mask] = i + 1;
+                stateMap.put(currentState, i); // Store the first occurrence of this state
             }
         }
 
-        return result;
+        return maxLength;
+    }
+
+    // Helper function to convert vowel counts into a binary string like "01010"
+    private String toStateString(int[] vowelCount) {
+        StringBuilder sb = new StringBuilder();
+        for (int count : vowelCount) {
+            sb.append(count);
+        }
+        return sb.toString();
     }
 }
