@@ -62,6 +62,7 @@
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RuAmey27/Daily_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RuAmey27/Daily_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3533-snake-in-matrix](https://github.com/RuAmey27/Daily_code/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RuAmey27/Daily_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RuAmey27/Daily_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RuAmey27/Daily_code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3533-snake-in-matrix](https://github.com/RuAmey27/Daily_code/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [2155-find-missing-observations](https://github.com/RuAmey27/Daily_code/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/RuAmey27/Daily_code/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
+| [3533-snake-in-matrix](https://github.com/RuAmey27/Daily_code/tree/master/3533-snake-in-matrix) |
 ## Tree
 |  |
 | ------- |
