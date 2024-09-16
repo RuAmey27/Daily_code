@@ -61,6 +61,7 @@
 | [2727-number-of-senior-citizens](https://github.com/RuAmey27/Daily_code/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RuAmey27/Daily_code/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RuAmey27/Daily_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3533-snake-in-matrix](https://github.com/RuAmey27/Daily_code/tree/master/3533-snake-in-matrix) |
 ## Hash Table
@@ -127,6 +128,7 @@
 | [2727-number-of-senior-citizens](https://github.com/RuAmey27/Daily_code/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RuAmey27/Daily_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RuAmey27/Daily_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RuAmey27/Daily_code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3533-snake-in-matrix](https://github.com/RuAmey27/Daily_code/tree/master/3533-snake-in-matrix) |
 ## Stack
@@ -456,6 +458,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RuAmey27/Daily_code/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Geometry
 |  |
 | ------- |
@@ -464,6 +467,7 @@
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/RuAmey27/Daily_code/tree/master/1764-maximum-repeating-substring) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -472,4 +476,12 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RuAmey27/Daily_code/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
