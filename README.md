@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RuAmey27/Daily_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RuAmey27/Daily_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RuAmey27/Daily_code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0134-gas-station](https://github.com/RuAmey27/Daily_code/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RuAmey27/Daily_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/RuAmey27/Daily_code/tree/master/0134-gas-station) |
 | [0624-maximum-distance-in-arrays](https://github.com/RuAmey27/Daily_code/tree/master/0624-maximum-distance-in-arrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
