@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RuAmey27/Daily_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/RuAmey27/Daily_code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RuAmey27/Daily_code/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/RuAmey27/Daily_code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
@@ -244,6 +245,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RuAmey27/Daily_code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/RuAmey27/Daily_code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RuAmey27/Daily_code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RuAmey27/Daily_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
