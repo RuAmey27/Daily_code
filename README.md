@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/RuAmey27/Daily_code/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/RuAmey27/Daily_code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RuAmey27/Daily_code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0054-spiral-matrix) |
@@ -147,6 +148,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RuAmey27/Daily_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/RuAmey27/Daily_code/tree/master/0624-maximum-distance-in-arrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RuAmey27/Daily_code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RuAmey27/Daily_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
