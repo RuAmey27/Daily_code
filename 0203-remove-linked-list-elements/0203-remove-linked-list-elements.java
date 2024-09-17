@@ -10,19 +10,18 @@
  */
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
-        if (head == null) {
-        return null;
-    }
-    
-    // Recursively call removeElements for the next node
-    head.next = removeElements(head.next, val);
-    
-    // Check if the current node needs to be removed
-    if (head.val == val) {
-        return head.next;
-    }
-    
-    // Return the current node if it should be kept
-    return head;
+      if (head == null) {
+            return null;
+        }
+        
+        // Check if the current node needs to be removed
+        if (head.val == val) {
+            // Skip the current node and process the rest of the list
+            return removeElements(head.next, val);
+        } else {
+            // Recursively call removeElements for the next node
+            head.next = removeElements(head.next, val);
+            return head;
+        }
     }
 }
