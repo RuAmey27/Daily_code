@@ -83,6 +83,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/RuAmey27/Daily_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/RuAmey27/Daily_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/RuAmey27/Daily_code/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
@@ -124,6 +125,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/RuAmey27/Daily_code/tree/master/0388-longest-absolute-file-path) |
 | [0392-is-subsequence](https://github.com/RuAmey27/Daily_code/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/RuAmey27/Daily_code/tree/master/0539-minimum-time-difference) |
@@ -376,6 +378,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RuAmey27/Daily_code/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RuAmey27/Daily_code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RuAmey27/Daily_code/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -531,4 +534,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
