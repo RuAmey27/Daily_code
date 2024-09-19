@@ -26,6 +26,7 @@
 | [0134-gas-station](https://github.com/RuAmey27/Daily_code/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/RuAmey27/Daily_code/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/RuAmey27/Daily_code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RuAmey27/Daily_code/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
@@ -79,6 +80,7 @@
 | [0141-linked-list-cycle](https://github.com/RuAmey27/Daily_code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RuAmey27/Daily_code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RuAmey27/Daily_code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/RuAmey27/Daily_code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/RuAmey27/Daily_code/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
@@ -171,6 +173,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/RuAmey27/Daily_code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/RuAmey27/Daily_code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RuAmey27/Daily_code/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/RuAmey27/Daily_code/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
@@ -341,6 +344,7 @@
 | [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/RuAmey27/Daily_code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/RuAmey27/Daily_code/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
@@ -364,6 +368,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RuAmey27/Daily_code/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RuAmey27/Daily_code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RuAmey27/Daily_code/tree/master/1786-count-the-number-of-consistent-strings) |
