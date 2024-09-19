@@ -24,6 +24,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RuAmey27/Daily_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RuAmey27/Daily_code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/RuAmey27/Daily_code/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/RuAmey27/Daily_code/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/RuAmey27/Daily_code/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RuAmey27/Daily_code/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/RuAmey27/Daily_code/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/RuAmey27/Daily_code/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/RuAmey27/Daily_code/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
