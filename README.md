@@ -209,6 +209,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RuAmey27/Daily_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RuAmey27/Daily_code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
@@ -222,6 +223,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RuAmey27/Daily_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RuAmey27/Daily_code/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/RuAmey27/Daily_code/tree/master/1484-linked-list-in-binary-tree) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RuAmey27/Daily_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0388-longest-absolute-file-path](https://github.com/RuAmey27/Daily_code/tree/master/0388-longest-absolute-file-path) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RuAmey27/Daily_code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -468,6 +471,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RuAmey27/Daily_code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/RuAmey27/Daily_code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RuAmey27/Daily_code/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
