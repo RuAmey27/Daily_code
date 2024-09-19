@@ -117,6 +117,7 @@
 | [0125-valid-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/RuAmey27/Daily_code/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/RuAmey27/Daily_code/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/RuAmey27/Daily_code/tree/master/0388-longest-absolute-file-path) |
@@ -284,6 +285,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RuAmey27/Daily_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RuAmey27/Daily_code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/RuAmey27/Daily_code/tree/master/0392-is-subsequence) |
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RuAmey27/Daily_code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -391,6 +393,7 @@
 | [0206-reverse-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RuAmey27/Daily_code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RuAmey27/Daily_code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -426,6 +429,7 @@
 | [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/RuAmey27/Daily_code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/RuAmey27/Daily_code/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/RuAmey27/Daily_code/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/RuAmey27/Daily_code/tree/master/0539-minimum-time-difference) |
@@ -504,4 +508,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
