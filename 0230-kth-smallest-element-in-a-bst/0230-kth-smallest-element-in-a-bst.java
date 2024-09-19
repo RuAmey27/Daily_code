@@ -14,24 +14,21 @@
  * }
  */
 class Solution {
-     private void inOrderTraversal(TreeNode node, PriorityQueue<Integer> minHeap) {
+    public int kthSmallest(TreeNode root, int k) {
+        List<Integer> sortedValues = new ArrayList<>();
+        inOrderTraversal(root, sortedValues);
+        
+        // The kth smallest element is at index k-1 in 0-indexed list
+        return sortedValues.get(k - 1);
+    }
+    
+    private void inOrderTraversal(TreeNode node, List<Integer> sortedValues) {
         if (node == null) {
             return;
         }
         
-        inOrderTraversal(node.left, minHeap);
-        minHeap.offer(node.val);
-        inOrderTraversal(node.right, minHeap);
-    }
-    public int kthSmallest(TreeNode root, int k) {
-         PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-        inOrderTraversal(root, minHeap);
-        
-        int kthSmallest = -1;
-        for (int i = 0; i < k; i++) {
-            kthSmallest = minHeap.poll();
-        }
-        
-        return kthSmallest;
+        inOrderTraversal(node.left, sortedValues);
+        sortedValues.add(node.val);
+        inOrderTraversal(node.right, sortedValues);
     }
 }
