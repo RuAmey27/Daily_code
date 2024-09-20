@@ -54,6 +54,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/RuAmey27/Daily_code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RuAmey27/Daily_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RuAmey27/Daily_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RuAmey27/Daily_code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/RuAmey27/Daily_code/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RuAmey27/Daily_code/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -173,6 +174,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/RuAmey27/Daily_code/tree/master/0624-maximum-distance-in-arrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RuAmey27/Daily_code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RuAmey27/Daily_code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RuAmey27/Daily_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
