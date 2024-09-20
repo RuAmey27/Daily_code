@@ -123,6 +123,7 @@
 | [0125-valid-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/RuAmey27/Daily_code/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/RuAmey27/Daily_code/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -514,6 +515,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0214-shortest-palindrome) |
 | [1764-maximum-repeating-substring](https://github.com/RuAmey27/Daily_code/tree/master/1764-maximum-repeating-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
@@ -527,10 +529,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0214-shortest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
