@@ -140,6 +140,7 @@
 | [1764-maximum-repeating-substring](https://github.com/RuAmey27/Daily_code/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RuAmey27/Daily_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/RuAmey27/Daily_code/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/RuAmey27/Daily_code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/RuAmey27/Daily_code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RuAmey27/Daily_code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -175,6 +176,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RuAmey27/Daily_code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2032-largest-odd-number-in-string](https://github.com/RuAmey27/Daily_code/tree/master/2032-largest-odd-number-in-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RuAmey27/Daily_code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RuAmey27/Daily_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -464,6 +466,7 @@
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/RuAmey27/Daily_code/tree/master/1349-check-if-it-is-a-straight-line) |
+| [2032-largest-odd-number-in-string](https://github.com/RuAmey27/Daily_code/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/RuAmey27/Daily_code/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Union Find
