@@ -154,6 +154,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/RuAmey27/Daily_code/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3533-snake-in-matrix](https://github.com/RuAmey27/Daily_code/tree/master/3533-snake-in-matrix) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/RuAmey27/Daily_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
 |  |
 | ------- |
@@ -481,6 +482,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/RuAmey27/Daily_code/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/RuAmey27/Daily_code/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/RuAmey27/Daily_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Union Find
 |  |
 | ------- |
