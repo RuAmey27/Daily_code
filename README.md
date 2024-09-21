@@ -32,6 +32,7 @@
 | [0189-rotate-array](https://github.com/RuAmey27/Daily_code/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
+| [0494-target-sum](https://github.com/RuAmey27/Daily_code/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/RuAmey27/Daily_code/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/RuAmey27/Daily_code/tree/master/0624-maximum-distance-in-arrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/RuAmey27/Daily_code/tree/master/0747-min-cost-climbing-stairs) |
@@ -309,6 +310,7 @@
 | [0152-maximum-product-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/RuAmey27/Daily_code/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/RuAmey27/Daily_code/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/RuAmey27/Daily_code/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/RuAmey27/Daily_code/tree/master/1013-fibonacci-number) |
@@ -359,6 +361,7 @@
 | [0037-sudoku-solver](https://github.com/RuAmey27/Daily_code/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/RuAmey27/Daily_code/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/RuAmey27/Daily_code/tree/master/0093-restore-ip-addresses) |
+| [0494-target-sum](https://github.com/RuAmey27/Daily_code/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
