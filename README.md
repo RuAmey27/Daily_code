@@ -248,6 +248,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RuAmey27/Daily_code/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/RuAmey27/Daily_code/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/RuAmey27/Daily_code/tree/master/0388-longest-absolute-file-path) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RuAmey27/Daily_code/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -527,6 +528,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RuAmey27/Daily_code/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/RuAmey27/Daily_code/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Geometry
 |  |
