@@ -534,6 +534,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RuAmey27/Daily_code/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/RuAmey27/Daily_code/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/RuAmey27/Daily_code/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Geometry
 |  |
