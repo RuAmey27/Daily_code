@@ -1,27 +1,31 @@
 class Solution {
-    public void swap(int[] nums, int i, int j){
-        int temp=nums[i];
-        nums[i]=nums[j];
-        nums[j]=temp;
-    }
     public void sortColors(int[] nums) {
-        int ptr0=0;
-        int ptr1=0;
-        int ptr2=nums.length-1;
+       int one = 0, two = 0, zero = 0;
 
-        while(ptr1<=ptr2){
-            if(nums[ptr1]==0){
-                swap(nums,ptr0,ptr1);
-                ptr0++;
-                ptr1++;
-            }
-            else if(nums[ptr1]==1){
-                ptr1++;
-            }
-            else {
-                swap(nums,ptr1,ptr2);
-                ptr2--;
+        // Count the occurrences of 0, 1, and 2
+        for (int num : nums) {
+            if (num == 0) {
+                zero++;
+            } else if (num == 1) {
+                one++;
+            } else if (num == 2) {
+                two++;
             }
         }
+
+        // Overwrite the array based on the counts
+        int i = 0;
+        while (zero > 0) {
+            nums[i++] = 0;
+            zero--;
+        }
+        while (one > 0) {
+            nums[i++] = 1;
+            one--;
+        }
+        while (two > 0) {
+            nums[i++] = 2;
+            two--;
+        } 
     }
 }
