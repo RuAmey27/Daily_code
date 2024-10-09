@@ -145,6 +145,7 @@
 | [0567-permutation-in-string](https://github.com/RuAmey27/Daily_code/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RuAmey27/Daily_code/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RuAmey27/Daily_code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RuAmey27/Daily_code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1764-maximum-repeating-substring](https://github.com/RuAmey27/Daily_code/tree/master/1764-maximum-repeating-substring) |
@@ -175,6 +176,7 @@
 | [0388-longest-absolute-file-path](https://github.com/RuAmey27/Daily_code/tree/master/0388-longest-absolute-file-path) |
 | [0726-number-of-atoms](https://github.com/RuAmey27/Daily_code/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RuAmey27/Daily_code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
@@ -187,6 +189,7 @@
 | [0134-gas-station](https://github.com/RuAmey27/Daily_code/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/RuAmey27/Daily_code/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/RuAmey27/Daily_code/tree/master/0624-maximum-distance-in-arrays) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/RuAmey27/Daily_code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RuAmey27/Daily_code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
