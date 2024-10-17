@@ -198,6 +198,7 @@
 | [0179-largest-number](https://github.com/RuAmey27/Daily_code/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/RuAmey27/Daily_code/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RuAmey27/Daily_code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/RuAmey27/Daily_code/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RuAmey27/Daily_code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/RuAmey27/Daily_code/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -516,6 +517,7 @@
 | [0258-add-digits](https://github.com/RuAmey27/Daily_code/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/RuAmey27/Daily_code/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/RuAmey27/Daily_code/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/RuAmey27/Daily_code/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/RuAmey27/Daily_code/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
