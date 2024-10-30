@@ -59,6 +59,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/RuAmey27/Daily_code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RuAmey27/Daily_code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RuAmey27/Daily_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RuAmey27/Daily_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RuAmey27/Daily_code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -216,6 +217,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RuAmey27/Daily_code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/RuAmey27/Daily_code/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RuAmey27/Daily_code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/RuAmey27/Daily_code/tree/master/2032-largest-odd-number-in-string) |
@@ -385,6 +387,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RuAmey27/Daily_code/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/RuAmey27/Daily_code/tree/master/1511-count-number-of-teams) |
 | [1764-maximum-repeating-substring](https://github.com/RuAmey27/Daily_code/tree/master/1764-maximum-repeating-substring) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RuAmey27/Daily_code/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/RuAmey27/Daily_code/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RuAmey27/Daily_code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -394,6 +397,7 @@
 | [0074-search-a-2d-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/RuAmey27/Daily_code/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RuAmey27/Daily_code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
