@@ -42,6 +42,7 @@
 | [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0954-maximum-sum-circular-subarray) |
+| [0978-valid-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/0978-valid-mountain-array) |
 | [0999-regions-cut-by-slashes](https://github.com/RuAmey27/Daily_code/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RuAmey27/Daily_code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
