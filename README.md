@@ -39,6 +39,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/RuAmey27/Daily_code/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/RuAmey27/Daily_code/tree/master/0875-longest-mountain-in-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/RuAmey27/Daily_code/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
@@ -401,6 +402,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1185-find-in-mountain-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
