@@ -46,6 +46,7 @@
 | [0978-valid-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/0978-valid-mountain-array) |
 | [0999-regions-cut-by-slashes](https://github.com/RuAmey27/Daily_code/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RuAmey27/Daily_code/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1185-find-in-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1185-find-in-mountain-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/RuAmey27/Daily_code/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/RuAmey27/Daily_code/tree/master/1325-path-with-maximum-probability) |
@@ -400,6 +401,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
+| [1185-find-in-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1185-find-in-mountain-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -686,4 +688,8 @@
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/RuAmey27/Daily_code/tree/master/0875-longest-mountain-in-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/RuAmey27/Daily_code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
