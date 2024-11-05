@@ -188,6 +188,7 @@
 | [2580-circular-sentence](https://github.com/RuAmey27/Daily_code/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/RuAmey27/Daily_code/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/RuAmey27/Daily_code/tree/master/2755-extra-characters-in-a-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RuAmey27/Daily_code/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/RuAmey27/Daily_code/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/RuAmey27/Daily_code/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/RuAmey27/Daily_code/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
