@@ -1,6 +1,6 @@
 class Solution {
     public int largestCombination(int[] candidates) {
-         int maxBitLength = 24;
+        int maxBitLength = 24;
         int maxSize = 0;
         
         // Iterate over each bit position
