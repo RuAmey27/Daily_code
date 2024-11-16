@@ -60,6 +60,7 @@
 | [1511-count-number-of-teams](https://github.com/RuAmey27/Daily_code/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/RuAmey27/Daily_code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RuAmey27/Daily_code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/RuAmey27/Daily_code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/RuAmey27/Daily_code/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -222,6 +223,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RuAmey27/Daily_code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/RuAmey27/Daily_code/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RuAmey27/Daily_code/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RuAmey27/Daily_code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RuAmey27/Daily_code/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
 | [2846-robot-collisions](https://github.com/RuAmey27/Daily_code/tree/master/2846-robot-collisions) |
@@ -390,6 +392,7 @@
 | [0567-permutation-in-string](https://github.com/RuAmey27/Daily_code/tree/master/0567-permutation-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/RuAmey27/Daily_code/tree/master/0875-longest-mountain-in-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RuAmey27/Daily_code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RuAmey27/Daily_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RuAmey27/Daily_code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/RuAmey27/Daily_code/tree/master/3195-separate-black-and-white-balls) |
@@ -429,6 +432,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1185-find-in-mountain-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RuAmey27/Daily_code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/RuAmey27/Daily_code/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -689,6 +693,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RuAmey27/Daily_code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
 ## Brainteaser
 |  |
