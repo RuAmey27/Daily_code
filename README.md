@@ -40,6 +40,7 @@
 | [0870-magic-squares-in-grid](https://github.com/RuAmey27/Daily_code/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/RuAmey27/Daily_code/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RuAmey27/Daily_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/RuAmey27/Daily_code/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/RuAmey27/Daily_code/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
@@ -431,6 +432,7 @@
 | [0074-search-a-2d-matrix](https://github.com/RuAmey27/Daily_code/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/RuAmey27/Daily_code/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RuAmey27/Daily_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1185-find-in-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1185-find-in-mountain-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/RuAmey27/Daily_code/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RuAmey27/Daily_code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -503,6 +505,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RuAmey27/Daily_code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/RuAmey27/Daily_code/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RuAmey27/Daily_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/RuAmey27/Daily_code/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/RuAmey27/Daily_code/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/RuAmey27/Daily_code/tree/master/1325-path-with-maximum-probability) |
@@ -596,6 +599,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/RuAmey27/Daily_code/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/RuAmey27/Daily_code/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RuAmey27/Daily_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RuAmey27/Daily_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RuAmey27/Daily_code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RuAmey27/Daily_code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -653,6 +657,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RuAmey27/Daily_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/RuAmey27/Daily_code/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RuAmey27/Daily_code/tree/master/1435-xor-queries-of-a-subarray) |
@@ -726,10 +731,12 @@
 | [0225-implement-stack-using-queues](https://github.com/RuAmey27/Daily_code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RuAmey27/Daily_code/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0387-first-unique-character-in-a-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RuAmey27/Daily_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RuAmey27/Daily_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0954-maximum-sum-circular-subarray) |
 ## Enumeration
 |  |
