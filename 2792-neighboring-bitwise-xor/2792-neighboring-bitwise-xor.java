@@ -1,25 +1,19 @@
+import java.util.stream.IntStream;
 class Solution {
-    public boolean doesValidArrayExist(int[] derived) {
+public boolean doesValidArrayExist(int[] derived) {
     int n = derived.length;
-    
-    // Check both possible values for original[0]
-    for (int firstBit = 0; firstBit <= 1; firstBit++) {
-        int[] original = new int[n];
-        original[0] = firstBit;
-        
-        // Compute all other values of original based on the relationship with derived
-        for (int i = 0; i < n - 1; i++) {
-            original[i + 1] = derived[i] ^ original[i];
-        }
-        
-        // Check if the circular relationship holds for the last element
-        if (derived[n - 1] == (original[n - 1] ^ original[0])) {
-            return true;
-        }
-    }
-    
-    // No valid original array found
-    return false;
+    int[] original = new int[n];
+
+    // Assume original[0] = 0
+    original[0] = 0;
+
+    // Calculate the rest of the elements in original using IntStream
+    IntStream.range(1, n)
+             .forEach(i -> original[i] = original[i - 1] ^ derived[i - 1]);
+
+    // Verify that the derived array matches the expected values using a stream
+    return IntStream.range(0, n)
+                    .allMatch(i -> derived[i] == (original[i] ^ original[(i + 1) % n]));
 }
 
 }
