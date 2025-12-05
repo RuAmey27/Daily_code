@@ -106,6 +106,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RuAmey27/Daily_code/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/RuAmey27/Daily_code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RuAmey27/Daily_code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/RuAmey27/Daily_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RuAmey27/Daily_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RuAmey27/Daily_code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/RuAmey27/Daily_code/tree/master/3533-snake-in-matrix) |
@@ -633,6 +634,7 @@
 | [2155-find-missing-observations](https://github.com/RuAmey27/Daily_code/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/RuAmey27/Daily_code/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/RuAmey27/Daily_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/RuAmey27/Daily_code/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Union Find
 |  |
@@ -672,6 +674,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/RuAmey27/Daily_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RuAmey27/Daily_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/RuAmey27/Daily_code/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Game Theory
 |  |
 | ------- |
