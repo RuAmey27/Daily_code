@@ -321,6 +321,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RuAmey27/Daily_code/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/RuAmey27/Daily_code/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RuAmey27/Daily_code/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/RuAmey27/Daily_code/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -359,6 +360,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/RuAmey27/Daily_code/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/RuAmey27/Daily_code/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/RuAmey27/Daily_code/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/RuAmey27/Daily_code/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Matrix
 |  |
 | ------- |
