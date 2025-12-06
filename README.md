@@ -110,6 +110,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/RuAmey27/Daily_code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RuAmey27/Daily_code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3533-snake-in-matrix](https://github.com/RuAmey27/Daily_code/tree/master/3533-snake-in-matrix) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RuAmey27/Daily_code/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -435,6 +436,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/RuAmey27/Daily_code/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/RuAmey27/Daily_code/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/RuAmey27/Daily_code/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RuAmey27/Daily_code/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -613,6 +615,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/RuAmey27/Daily_code/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/RuAmey27/Daily_code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/RuAmey27/Daily_code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RuAmey27/Daily_code/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Math
 |  |
 | ------- |
@@ -677,6 +680,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RuAmey27/Daily_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/RuAmey27/Daily_code/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RuAmey27/Daily_code/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Game Theory
 |  |
 | ------- |
@@ -745,11 +749,13 @@
 | [0387-first-unique-character-in-a-string](https://github.com/RuAmey27/Daily_code/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RuAmey27/Daily_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0954-maximum-sum-circular-subarray) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RuAmey27/Daily_code/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/RuAmey27/Daily_code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0954-maximum-sum-circular-subarray) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/RuAmey27/Daily_code/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Enumeration
 |  |
 | ------- |
