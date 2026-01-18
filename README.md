@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/RuAmey27/Daily_code/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/RuAmey27/Daily_code/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/RuAmey27/Daily_code/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/RuAmey27/Daily_code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RuAmey27/Daily_code/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RuAmey27/Daily_code/tree/master/0049-group-anagrams) |
@@ -221,6 +222,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RuAmey27/Daily_code/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RuAmey27/Daily_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/RuAmey27/Daily_code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RuAmey27/Daily_code/tree/master/0232-implement-queue-using-stacks) |
@@ -389,6 +391,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RuAmey27/Daily_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RuAmey27/Daily_code/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/RuAmey27/Daily_code/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/RuAmey27/Daily_code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RuAmey27/Daily_code/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RuAmey27/Daily_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/RuAmey27/Daily_code/tree/master/0125-valid-palindrome) |
@@ -412,6 +415,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RuAmey27/Daily_code/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/RuAmey27/Daily_code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RuAmey27/Daily_code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/RuAmey27/Daily_code/tree/master/0118-pascals-triangle) |
@@ -716,6 +720,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RuAmey27/Daily_code/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RuAmey27/Daily_code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/RuAmey27/Daily_code/tree/master/2573-remove-nodes-from-linked-list) |
 ## Brainteaser
