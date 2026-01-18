@@ -1,20 +1,25 @@
 class Solution {
     public int trap(int[] height) {
-     Stack<Integer> stack = new Stack<>(); // stores indices
+
+        int n = height.length;
+
+        // stack implemented using array (stores indices)
+        int[] stack = new int[n];
+        int top = -1;
+
         int water = 0;
 
-        for (int i = 0; i < height.length; i++) {
+        for (int i = 0; i < n; i++) {
 
-            // When current bar is higher than stack top,
-            // we found a right boundary
-            while (!stack.isEmpty() && height[i] > height[stack.peek()]) {
+            // while current bar is higher than the top of stack
+            while (top >= 0 && height[i] > height[stack[top]]) {
 
-                int bottom = stack.pop(); // valley bottom
+                int bottom = stack[top--]; // POP valley bottom
 
-                // If stack is empty, no left boundary
-                if (stack.isEmpty()) break;
+                // no left boundary
+                if (top < 0) break;
 
-                int left = stack.peek();  // left boundary
+                int left = stack[top]; // left boundary index
 
                 int width = i - left - 1;
                 int boundedHeight =
@@ -23,8 +28,8 @@ class Solution {
                 water += width * boundedHeight;
             }
 
-            // Push current index
-            stack.push(i);
+            // PUSH current index
+            stack[++top] = i;
         }
 
         return water;
