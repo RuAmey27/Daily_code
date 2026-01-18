@@ -69,6 +69,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/RuAmey27/Daily_code/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RuAmey27/Daily_code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RuAmey27/Daily_code/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/RuAmey27/Daily_code/tree/master/1895-largest-magic-square) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/RuAmey27/Daily_code/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1940-maximum-xor-for-each-query](https://github.com/RuAmey27/Daily_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -379,6 +380,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/RuAmey27/Daily_code/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/RuAmey27/Daily_code/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/RuAmey27/Daily_code/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1895-largest-magic-square](https://github.com/RuAmey27/Daily_code/tree/master/1895-largest-magic-square) |
 | [2035-count-sub-islands](https://github.com/RuAmey27/Daily_code/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/RuAmey27/Daily_code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/RuAmey27/Daily_code/tree/master/2411-spiral-matrix-iv) |
@@ -680,6 +682,7 @@
 | [1240-stone-game-ii](https://github.com/RuAmey27/Daily_code/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/RuAmey27/Daily_code/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/RuAmey27/Daily_code/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1895-largest-magic-square](https://github.com/RuAmey27/Daily_code/tree/master/1895-largest-magic-square) |
 | [1940-maximum-xor-for-each-query](https://github.com/RuAmey27/Daily_code/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/RuAmey27/Daily_code/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/RuAmey27/Daily_code/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
